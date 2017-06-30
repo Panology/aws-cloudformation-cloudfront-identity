@@ -1,11 +1,11 @@
 {
   "name": "aws-cloudformation-cloudfront-identity",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Warn: no test specified\" && exit 0",
-    "cfn-lambda-deploy": "node ./node_modules/cfn-lambda/deploy.js"
+    "cfn-lambda-deploy": "node ./node_modules/cfn-lambda/utils/deploy.js"
   },
   "author": "Mathieu Desvé <mathieu.desve@me.com>",
   "license": "ISC",
