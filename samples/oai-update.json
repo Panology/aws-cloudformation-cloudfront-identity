@@ -1,0 +1,16 @@
+{
+    "RequestType": "Update",
+    "ServiceToken": "arn:aws:lambda:us-east-2:454844014023:function:ourpts-cfn-cloudfront-identity",
+    "ResponseURL": "https://cloudformation-custom-resource-response-useast2.s3.us-east-2.amazonaws.com/arn%3Aaws%3Acloudformation%3Aus-east-2%3A454844014023%3Astack/PTS-Web-Static/65330ef0-5c55-11e7-816a-504de0fa99c5%7COAI%7C1b6444dc-4a18-4d5a-9b65-44abf838c5a8?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20170629T165010Z&X-Amz-SignedHeaders=host&X-Amz-Expires=7200&X-Amz-Credential=AKIAIGA4RXKH2NPMMYYA%2F20170629%2Fus-east-2%2Fs3%2Faws4_request&X-Amz-Signature=dac8ac2d09101d5b33164e13093971a9dc478d6ea75c401314b71c16cb4d4568",
+    "StackId": "arn:aws:cloudformation:us-east-2:454844014023:stack/PTS-Web-Static/65330ef0-5c55-11e7-816a-504de0fa99c5",
+    "RequestId": "1b6444dc-4a18-4d5a-9b65-44abf838c5a8",
+    "LogicalResourceId": "OAI",
+    "PhysicalResourceId": "E3EVHCNQ8QJU2",
+    "ResourceType": "Custom::CloudFrontIdentity",
+    "ResourceProperties": {
+        "Comment": "OAI"
+    },
+    "OldResourceProperties": {
+        "Comment": "OAI for PTS Website"
+    }
+}
