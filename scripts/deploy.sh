@@ -1,5 +1,4 @@
 #!/bin/bash
-# deploy.sh
 
 #!! Note !!
 # Make sure your shell enviornment has the following configured
